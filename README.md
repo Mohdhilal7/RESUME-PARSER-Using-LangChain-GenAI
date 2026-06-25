@@ -24,6 +24,3 @@ This foundational parsing system can easily be extended into a comprehensive HR 
 * Automated Candidate-to-Job matching.
 * Resume ranking algorithms.
 * Skill gap analysis and job recommendations.
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](#) if you want to contribute.
