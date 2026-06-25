@@ -1,0 +1,18 @@
+# Web Application Framework
+streamlit
+
+# LangChain Framework
+langchain
+langchain-community
+
+# Google Gemini API Integrations
+google-generativeai
+langchain-google-genai
+
+# Document Parsing Libraries
+pypdf
+PyPDF2
+docx2txt
+
+# Environment Variable Management
+python-dotenv
